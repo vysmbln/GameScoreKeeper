@@ -1,3 +1,2 @@
 ﻿# GameScoreKeeper
-Basic HTML and JS scorekeeper. 
-V2 is with Bulma.
+Basic HTML and JS scorekeeper with Bulma grid system.
